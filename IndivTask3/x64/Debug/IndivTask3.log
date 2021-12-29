@@ -1,0 +1,80 @@
+﻿  main.cpp
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\figure_model.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(326,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(327,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(336,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(337,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(566,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(589,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(613,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(767,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(768,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(773,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(774,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(794,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(795,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(796,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(807,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(808,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(809,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(810,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(811,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\main.cpp(812,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(170,1): warning C4267: 'initializing': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=int,
+              _Ty=unsigned __int64,
+              _Other=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=int,
+              _Ty=unsigned __int64,
+              _Other=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::tuple<int>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)' being compiled
+          with
+          [
+              _Ty=unsigned __int64,
+              _Tag=std::_Exact_args_t,
+              _This2=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::tuple<int>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)' being compiled
+          with
+          [
+              _Ty=unsigned __int64,
+              _Tag=std::_Exact_args_t,
+              _This2=unsigned __int64
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(340): message : see reference to function template instantiation 'std::tuple<figure_model::Vertex *,int>::tuple<std::_Exact_args_t,figure_model::Vertex*&,_Ty,0>(_Tag,_This2,_Ty &&)' being compiled
+          with
+          [
+              _Ty=unsigned __int64,
+              _Tag=std::_Exact_args_t,
+              _This2=figure_model::Vertex *&
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(340): message : see reference to function template instantiation 'std::tuple<figure_model::Vertex *,int>::tuple<std::_Exact_args_t,figure_model::Vertex*&,_Ty,0>(_Tag,_This2,_Ty &&)' being compiled
+          with
+          [
+              _Ty=unsigned __int64,
+              _Tag=std::_Exact_args_t,
+              _This2=figure_model::Vertex *&
+          ]
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\figure_model.h(96): message : see reference to function template instantiation 'std::tuple<figure_model::Vertex *,int>::tuple<figure_model::Vertex*&,unsigned __int64,0>(_This2,unsigned __int64 &&) noexcept' being compiled
+          with
+          [
+              _This2=figure_model::Vertex *&
+          ]
+C:\Users\Dunkash\source\repos\IndivTask3\IndivTask3\figure_model.h(96): message : see reference to function template instantiation 'std::tuple<figure_model::Vertex *,int>::tuple<figure_model::Vertex*&,unsigned __int64,0>(_This2,unsigned __int64 &&) noexcept' being compiled
+          with
+          [
+              _This2=figure_model::Vertex *&
+          ]
+  IndivTask3.vcxproj -> C:\Users\Dunkash\source\repos\IndivTask3\x64\Debug\IndivTask3.exe
